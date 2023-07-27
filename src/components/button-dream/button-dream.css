@@ -1,0 +1,13 @@
+/* Phone version */
+@media screen and (max-device-width: 1200px) {
+  .button-container {
+    margin-left: 70px;
+  }
+}
+
+/* Phone version */
+@media screen and (min-device-width: 1200px) {
+  .button-container {
+    margin-left: 180px;
+  }
+}
